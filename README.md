@@ -3,6 +3,5 @@ Fraunhofer diffraction simulation script. Script was made to produce simulated F
 
 The code is commented extensively with an explanation for almost every line.
 
-## Test-Equation
+Fraunhofer diffraction is simulated for a single slit, a pinhole and in a diffraction grating. In each scenario it is possible to vary a number of parameters relating to the formation of teh diffraction pattern
 
-$\alpha \beta$
