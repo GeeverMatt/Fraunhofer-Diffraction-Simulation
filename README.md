@@ -3,5 +3,5 @@ Fraunhofer diffraction simulation script. Script was made to produce simulated F
 
 The code is commented extensively with an explanation for almost every line.
 
-Fraunhofer diffraction is simulated for a single slit, a pinhole and in a diffraction grating. In each scenario it is possible to vary a number of parameters relating to the formation of teh diffraction pattern
+Fraunhofer diffraction is simulated for a single slit, a pinhole and a diffraction grating. In each scenario it is possible to vary a number of parameters relating to the formation of the diffraction pattern and these are all labeled. For each diffraction patterns adjustments may need to be made in order to view the central part of the diffraction pattern where the most detail is contained. This can be done by adjusting the p array but this will apply the changes to all diffraction patterns.
 
